@@ -39,7 +39,7 @@ assignees: Yajo
 
 **Environment**
  - OS: <!-- Windows, Mac, Linux... Specify distro and version -->
- - Copier version: <!-- copier --version output -->
+ - Copier version: <!-- copier \-\-version output -->
  - Python version:
  - Installation method: <!-- pipx+pypi, pipx+git, pip+pypi, pip+git, local build, distro package... -->
 
