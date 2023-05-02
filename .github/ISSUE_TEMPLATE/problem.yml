@@ -29,8 +29,6 @@ body:
         2. Answer ...
         3. Choose ...
         4. See error
-    validations:
-      required: true
 
   - type: textarea
     id: logs
